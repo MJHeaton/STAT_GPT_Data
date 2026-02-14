@@ -1,0 +1,315 @@
+{
+  "version": "1.0",
+  "datasets": [
+    {
+      "dataset_name": "ADHD",
+      "csv_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/ADHD/adhd.txt",
+      "metadata_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/ADHD/adhd.meta.json"
+    },
+    {
+      "dataset_name": "Admission",
+      "csv_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/Admission/Admission_Predict.csv",
+      "metadata_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/Admission/Admission_Predict.meta.json"
+    },
+    {
+      "dataset_name": "AirBnb",
+      "csv_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/AirBnb/Airbnb.csv",
+      "metadata_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/AirBnb/Airbnb.meta.json"
+    },
+    {
+      "dataset_name": "Aliens",
+      "csv_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/Aliens/Aliens.csv",
+      "metadata_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/Aliens/Aliens.meta.json"
+    },
+    {
+      "dataset_name": "Anemia",
+      "csv_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/Anemia/Anemia.csv",
+      "metadata_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/Anemia/Anemia.meta.json"
+    },
+    {
+      "dataset_name": "AnnualDeaths",
+      "csv_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/AnnualDeaths/AnnualDeaths.csv",
+      "metadata_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/AnnualDeaths/AnnualDeaths.meta.json"
+    },
+    {
+      "dataset_name": "BaseballCamp",
+      "csv_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/BaseballCamp/Baseball_Camp.csv",
+      "metadata_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/BaseballCamp/Baseball_Camp.meta.json"
+    },
+    {
+      "dataset_name": "Batting",
+      "csv_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/Batting/batting.csv",
+      "metadata_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/Batting/batting.meta.json"
+    },
+    {
+      "dataset_name": "Bikes",
+      "csv_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/Bikes/bikes.csv",
+      "metadata_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/Bikes/bikes.meta.json"
+    },
+    {
+      "dataset_name": "Billionaires",
+      "csv_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/Billionaires/Billionaires.csv",
+      "metadata_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/Billionaires/Billionaires.meta.json"
+    },
+    {
+      "dataset_name": "BodyFat",
+      "csv_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/BodyFat/BodyFat.txt",
+      "metadata_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/BodyFat/BodyFat.meta.json"
+    },
+    {
+      "dataset_name": "BoneLoss",
+      "csv_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/BoneLoss/BoneLoss.txt",
+      "metadata_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/BoneLoss/"
+    },
+    {
+      "dataset_name": "Broadway",
+      "csv_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/Broadway/Broadway.csv",
+      "metadata_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/Broadway/Broadway.meta.json"
+    },
+    {
+      "dataset_name": "BuildingEnergyEfficiency",
+      "csv_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/BuildingEnergyEfficiency/BuildingEnergyEfficiency.csv",
+      "metadata_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/BuildingEnergyEfficiency/BuildingEnergyEfficiency.meta.json"
+    },
+    {
+      "dataset_name": "carprice",
+      "csv_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/carprice/carprice.csv",
+      "metadata_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/carprice/carprice.meta.json"
+    },
+    {
+      "dataset_name": "cereal",
+      "csv_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/cereal/cereal.csv",
+      "metadata_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/cereal/cereal.meta.json"
+    },
+    {
+      "dataset_name": "ChickFilA",
+      "csv_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/ChickFilA/ChickFilA.txt",
+      "metadata_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/ChickFilA/ChickFilA.meta.json"
+    },
+    {
+      "dataset_name": "climber_drugs",
+      "csv_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/climber_drugs/climber_drugs.csv",
+      "metadata_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/climber_drugs/climber_drugs.meta.json"
+    },
+    {
+      "dataset_name": "covid",
+      "csv_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/covid/covid.csv",
+      "metadata_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/covid/covid.meta.json"
+    },
+    {
+      "dataset_name": "CuckooBirds",
+      "csv_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/CuckooBirds/CuckooBirds.csv",
+      "metadata_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/CuckooBirds/CuckooBirds.meta.json"
+    },
+    {
+      "dataset_name": "Diabetes",
+      "csv_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/Diabetes/Diabetes.csv",
+      "metadata_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/Diabetes/Diabetes.meta.json"
+    },
+    {
+      "dataset_name": "DiamondsPrices",
+      "csv_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/DiamondsPrices/DiamondsPrices.csv",
+      "metadata_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/DiamondsPrices/DiamondsPrices.meta.json"
+    },
+    {
+      "dataset_name": "DistractedDriving",
+      "csv_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/DistractedDriving/DistractedDriving.csv",
+      "metadata_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/DistractedDriving/DistractedDriving.meta.json"
+    },
+    {
+      "dataset_name": "DnD",
+      "csv_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/DnD/DnD.csv",
+      "metadata_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/DnD/DnD.meta.json"
+    },
+    {
+      "dataset_name": "Dolphin",
+      "csv_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/Dolphin/Dolphin.csv",
+      "metadata_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/Dolphin/Dolphin.meta.json"
+    },
+    {
+      "dataset_name": "EducationVsMaritalStatus",
+      "csv_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/EducationVsMaritalStatus/EducationVsMaritalStatus.csv",
+      "metadata_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/EducationVsMaritalStatus/EducationVsMaritalStatus.meta.json"
+    },
+    {
+      "dataset_name": "Evolution",
+      "csv_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/Evolution/Evolution.csv",
+      "metadata_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/Evolution/Evolution.meta.json"
+    },
+    {
+      "dataset_name": "FlightDelays",
+      "csv_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/FlightDelays/FlightDelays.csv",
+      "metadata_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/FlightDelays/FlightDelays.meta.json"
+    },
+    {
+      "dataset_name": "GestationalAge",
+      "csv_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/GestationalAge/GestationalAge.csv",
+      "metadata_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/GestationalAge/GestationalAge.meta.json"
+    },
+    {
+      "dataset_name": "Go_To_College_Academic",
+      "csv_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/Go_To_College_Academic/Go_To_College_Academic.csv",
+      "metadata_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/Go_To_College_Academic/Go_To_College_Academic.meta.json"
+    },
+    {
+      "dataset_name": "GPA",
+      "csv_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/GPA/GPA.csv",
+      "metadata_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/GPA/GPA.meta.json"
+    },
+    {
+      "dataset_name": "HomeFieldAdvantage",
+      "csv_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/HomeFieldAdvantage/HomeFieldAdvantage.csv",
+      "metadata_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/HomeFieldAdvantage/HomeFieldAdvantage.meta.json"
+    },
+    {
+      "dataset_name": "HospitalWaitTimes",
+      "csv_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/HospitalWaitTimes/HospitalWaitTimes.csv",
+      "metadata_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/HospitalWaitTimes/HospitalWaitTimes.meta.json"
+    },
+    {
+      "dataset_name": "IBM",
+      "csv_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/IBM/IBM.csv",
+      "metadata_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/IBM/IBM.meta.json"
+    },
+    {
+      "dataset_name": "Lawyers",
+      "csv_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/Lawyers/Lawyers.csv",
+      "metadata_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/Lawyers/Lawyers.meta.json"
+    },
+    {
+      "dataset_name": "MastersDegree",
+      "csv_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/MastersDegree/MastersDegree.txt",
+      "metadata_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/MastersDegree/MastersDegree.meta.json"
+    },
+    {
+      "dataset_name": "Michelin_Star",
+      "csv_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/Michelin_Star/Michelin_Star2.csv",
+      "metadata_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/Michelin_Star/Michelin_Star2.meta.json"
+    },
+    {
+      "dataset_name": "MPG",
+      "csv_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/MPG/MPG.txt",
+      "metadata_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/MPG/MPG.meta.json"
+    },
+    {
+      "dataset_name": "NaturalDisasters2020",
+      "csv_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/NaturalDisasters2020/NaturalDisasters2020.csv",
+      "metadata_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/NaturalDisasters2020/NaturalDisasters2020.meta.json"
+    },
+    {
+      "dataset_name": "NBA",
+      "csv_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/NBA/NBA.csv",
+      "metadata_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/NBA/NBA.meta.json"
+    },
+    {
+      "dataset_name": "Networking",
+      "csv_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/Networking/Networking.txt",
+      "metadata_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/Networking/Networking.meta.json"
+    },
+    {
+      "dataset_name": "NHL_Data",
+      "csv_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/NHL_Data/NHL_Data.csv",
+      "metadata_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/NHL_Data/NHL_Data.meta.json"
+    },
+    {
+      "dataset_name": "Parental_Education",
+      "csv_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/Parental_Education/Parental_Education.csv",
+      "metadata_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/Parental_Education/Parental_Education.meta.json"
+    },
+    {
+      "dataset_name": "Penguins",
+      "csv_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/Penguins/Penguins.csv",
+      "metadata_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/Penguins/Penguins.meta.json"
+    },
+    {
+      "dataset_name": "Placebo",
+      "csv_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/Placebo/Placebo.csv",
+      "metadata_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/Placebo/Placebo.meta.json"
+    },
+    {
+      "dataset_name": "Plants",
+      "csv_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/Plants/Plants.txt",
+      "metadata_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/Plants/Plants.meta.json"
+    },
+    {
+      "dataset_name": "Possum",
+      "csv_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/Possum/Possum.csv",
+      "metadata_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/Possum/Possum.meta.json"
+    },
+    {
+      "dataset_name": "Recidivism",
+      "csv_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/Recidivism/Recidivism.csv",
+      "metadata_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/Recidivism/Recidivism.meta.json"
+    },
+    {
+      "dataset_name": "Returns",
+      "csv_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/Returns/Returns.csv",
+      "metadata_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/Returns/Returns.meta.json"
+    },
+    {
+      "dataset_name": "RMP",
+      "csv_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/RMP/RMP.csv",
+      "metadata_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/RMP/RMP.meta.json"
+    },
+    {
+      "dataset_name": "Salary",
+      "csv_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/Salary/Salary.csv",
+      "metadata_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/Salary/Salary.meta.json"
+    },
+    {
+      "dataset_name": "seed",
+      "csv_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/seed/seed.csv",
+      "metadata_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/seed/seed.meta.json"
+    },
+    {
+      "dataset_name": "songs",
+      "csv_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/songs/songs.csv",
+      "metadata_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/songs/songs.meta.json"
+    },
+    {
+      "dataset_name": "starbucks",
+      "csv_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/starbucks/starbucks.csv",
+      "metadata_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/starbucks/starbucks.meta.json"
+    },
+    {
+      "dataset_name": "sunshine",
+      "csv_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/sunshine/sunshine.csv",
+      "metadata_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/sunshine/sunshine.meta.json"
+    },
+    {
+      "dataset_name": "usenergy",
+      "csv_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/usenergy/usenergy.csv",
+      "metadata_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/usenergy/usenergy.meta.json"
+    },
+    {
+      "dataset_name": "Walmart",
+      "csv_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/Walmart/Walmart.csv",
+      "metadata_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/Walmart/Walmart.meta.json"
+    },
+    {
+      "dataset_name": "WebsiteDesign",
+      "csv_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/WebsiteDesign/WebsiteDesign.txt",
+      "metadata_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/WebsiteDesign/WebsiteDesign.meta.json"
+    },
+    {
+      "dataset_name": "Windmill",
+      "csv_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/Windmill/Windmill.txt",
+      "metadata_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/Windmill/Windmill.meta.json"
+    },
+    {
+      "dataset_name": "WorkHours",
+      "csv_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/WorkHours/WorkHours.csv",
+      "metadata_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/WorkHours/WorkHours.meta.json"
+    },
+    {
+      "dataset_name": "world_cpi",
+      "csv_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/world_cpi/world_cpi.csv",
+      "metadata_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/world_cpi/world_cpi.meta.json"
+    },
+    {
+      "dataset_name": "Yawn",
+      "csv_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/Yawn/Yawn.txt",
+      "metadata_url": "https://github.com/MJHeaton/STAT_GPT_Data/blob/main/Yawn/Yawn.meta.json"
+    }
+  ]
+}
