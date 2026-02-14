@@ -1,0 +1,16 @@
+{
+  "name": "Website Design Revenue Data",
+  "description": "Dataset recording revenue outcomes from different website design versions.",
+  "columns": [
+    {
+      "name": "Design",
+      "display_name": "Design",
+      "description": "Design version of the website (e.g., A, B, etc.)."
+    },
+    {
+      "name": "Revenue",
+      "display_name": "Revenue",
+      "description": "Revenue generated under this design version."
+    }
+  ]
+}

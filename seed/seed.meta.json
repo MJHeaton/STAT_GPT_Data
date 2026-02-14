@@ -1,0 +1,21 @@
+{
+  "name": "Seed Data",
+  "description": "Dataset containing agricultural seed characteristics and classification attributes.",
+  "columns": [
+    {
+      "name": "regular_seed",
+      "display_name": "Regular Seed",
+      "description": "Information about Regular Seed."
+    },
+    {
+      "name": "kiln_dried_seed",
+      "display_name": "Kiln Dried Seed",
+      "description": "Information about Kiln Dried Seed."
+    },
+    {
+      "name": "difference",
+      "display_name": "Difference",
+      "description": "Information about Difference."
+    }
+  ]
+}

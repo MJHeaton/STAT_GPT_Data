@@ -1,0 +1,16 @@
+{
+  "name": "Education vs Marital Status",
+  "description": "Dataset comparing education levels with marital status categories.",
+  "columns": [
+    {
+      "name": "MaritalStatus",
+      "display_name": "Maritalstatus",
+      "description": "Information about Maritalstatus."
+    },
+    {
+      "name": "Education",
+      "display_name": "Education",
+      "description": "Information about Education."
+    }
+  ]
+}

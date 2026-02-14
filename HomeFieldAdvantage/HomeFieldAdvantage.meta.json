@@ -1,0 +1,16 @@
+{
+  "name": "Home Field Advantage",
+  "description": "Dataset containing sports results measuring home-field advantage effects.",
+  "columns": [
+    {
+      "name": "HomeOrAway",
+      "display_name": "Homeoraway",
+      "description": "Information about Homeoraway."
+    },
+    {
+      "name": "Sport",
+      "display_name": "Sport",
+      "description": "Information about Sport."
+    }
+  ]
+}

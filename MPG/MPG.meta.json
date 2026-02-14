@@ -1,0 +1,16 @@
+{
+  "name": "Miles Per Gallon Data",
+  "description": "Dataset containing vehicle weights and miles per gallon (MPG).",
+  "columns": [
+    {
+      "name": "Weight",
+      "display_name": "Weight",
+      "description": "Weight of the vehicle in pounds."
+    },
+    {
+      "name": "MPG",
+      "display_name": "Mpg",
+      "description": "Miles per gallon fuel efficiency."
+    }
+  ]
+}

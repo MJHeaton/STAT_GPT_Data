@@ -1,0 +1,16 @@
+{
+  "name": "Diabetes Data",
+  "description": "Dataset with patient health indicators relevant to diabetes prediction.",
+  "columns": [
+    {
+      "name": "treatment",
+      "display_name": "Treatment",
+      "description": "Information about Treatment."
+    },
+    {
+      "name": "outcome",
+      "display_name": "Outcome",
+      "description": "Information about Outcome."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Flight Delays Data",
+  "description": "Dataset containing information about flight delays, including departure and arrival details.",
+  "columns": [
+    {
+      "name": "FL_DATE",
+      "display_name": "Fl Date",
+      "description": "Information about Fl Date."
+    },
+    {
+      "name": "OP_CARRIER_FL_NUM",
+      "display_name": "Op Carrier Fl Num",
+      "description": "Information about Op Carrier Fl Num."
+    },
+    {
+      "name": "DELAYED",
+      "display_name": "Delayed",
+      "description": "Information about Delayed."
+    },
+    {
+      "name": "CARRIER_DELAY",
+      "display_name": "Carrier Delay",
+      "description": "Information about Carrier Delay."
+    },
+    {
+      "name": "WEATHER_DELAY",
+      "display_name": "Weather Delay",
+      "description": "Information about Weather Delay."
+    },
+    {
+      "name": "NAS_DELAY",
+      "display_name": "Nas Delay",
+      "description": "Information about Nas Delay."
+    },
+    {
+      "name": "SECURITY_DELAY",
+      "display_name": "Security Delay",
+      "description": "Information about Security Delay."
+    },
+    {
+      "name": "LATE_AIRCRAFT_DELAY",
+      "display_name": "Late Aircraft Delay",
+      "description": "Information about Late Aircraft Delay."
+    }
+  ]
+}

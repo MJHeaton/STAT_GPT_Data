@@ -1,0 +1,31 @@
+{
+  "name": "COVID-19 Data",
+  "description": "Dataset containing COVID-19 related data such as cases, deaths, or vaccinations.",
+  "columns": [
+    {
+      "name": "Country",
+      "display_name": "Country",
+      "description": "Information about Country."
+    },
+    {
+      "name": "TotalCases",
+      "display_name": "Totalcases",
+      "description": "Information about Totalcases."
+    },
+    {
+      "name": "TotalDeaths",
+      "display_name": "Totaldeaths",
+      "description": "Information about Totaldeaths."
+    },
+    {
+      "name": "TotalTests",
+      "display_name": "Totaltests",
+      "description": "Information about Totaltests."
+    },
+    {
+      "name": "Population",
+      "display_name": "Population",
+      "description": "Information about Population."
+    }
+  ]
+}

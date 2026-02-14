@@ -1,0 +1,61 @@
+{
+  "name": "Anemia Survey",
+  "description": "Survey dataset with maternal and health-related factors related to anemia.",
+  "columns": [
+    {
+      "name": "Mothers.Age",
+      "display_name": "Mother's Age Group",
+      "description": "Age range of the mother (e.g., 20-24, 25-29, etc.)."
+    },
+    {
+      "name": "Residence.Type",
+      "display_name": "Residence Type",
+      "description": "Whether the mother lives in an urban or rural area."
+    },
+    {
+      "name": "Education.Level",
+      "display_name": "Education Level",
+      "description": "Highest level of education completed by the mother (e.g., Secondary, Higher)."
+    },
+    {
+      "name": "Wealth",
+      "display_name": "Wealth Level",
+      "description": "Household wealth category (e.g., Poorest, Richest)."
+    },
+    {
+      "name": "Birth.Amount",
+      "display_name": "Birth Amount",
+      "description": "Number of children born in the delivery (e.g., 1, 2)."
+    },
+    {
+      "name": "Birthing.Age",
+      "display_name": "Birthing Age",
+      "description": "Age of the mother at childbirth."
+    },
+    {
+      "name": "Anemia.Level",
+      "display_name": "Anemia Level",
+      "description": "Degree of anemia diagnosed (e.g., Mild, Moderate, Not anemic)."
+    },
+    {
+      "name": "Mosquito.Net",
+      "display_name": "Uses Mosquito Net",
+      "description": "Indicates whether the mother uses a mosquito net (Yes/No)."
+    },
+    {
+      "name": "Smoke.Cigarettes",
+      "display_name": "Smokes Cigarettes",
+      "description": "Indicates whether the mother smokes cigarettes (Yes/No)."
+    },
+    {
+      "name": "Maritial.Status",
+      "display_name": "Marital Status",
+      "description": "Marital status of the mother (e.g., Married, Single)."
+    },
+    {
+      "name": "Fever",
+      "display_name": "Fever",
+      "description": "Indicates whether the mother had a fever (Yes/No)."
+    }
+  ]
+}

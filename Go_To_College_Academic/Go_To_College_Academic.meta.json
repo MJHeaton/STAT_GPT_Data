@@ -1,0 +1,61 @@
+{
+  "name": "Go To College Academic Data",
+  "description": "Dataset containing academic performance indicators related to college attendance likelihood.",
+  "columns": [
+    {
+      "name": "type_school",
+      "display_name": "Type School",
+      "description": "Information about Type School."
+    },
+    {
+      "name": "school_accreditation",
+      "display_name": "School Accreditation",
+      "description": "Information about School Accreditation."
+    },
+    {
+      "name": "gender",
+      "display_name": "Gender",
+      "description": "Information about Gender."
+    },
+    {
+      "name": "interest",
+      "display_name": "Interest",
+      "description": "Information about Interest."
+    },
+    {
+      "name": "residence",
+      "display_name": "Residence",
+      "description": "Information about Residence."
+    },
+    {
+      "name": "parent_age",
+      "display_name": "Parent Age",
+      "description": "Information about Parent Age."
+    },
+    {
+      "name": "parent_salary",
+      "display_name": "Parent Salary",
+      "description": "Information about Parent Salary."
+    },
+    {
+      "name": "house_area",
+      "display_name": "House Area",
+      "description": "Information about House Area."
+    },
+    {
+      "name": "average_grades",
+      "display_name": "Average Grades",
+      "description": "Information about Average Grades."
+    },
+    {
+      "name": "parent_was_in_college",
+      "display_name": "Parent Was In College",
+      "description": "Information about Parent Was In College."
+    },
+    {
+      "name": "in_college",
+      "display_name": "In College",
+      "description": "Information about In College."
+    }
+  ]
+}

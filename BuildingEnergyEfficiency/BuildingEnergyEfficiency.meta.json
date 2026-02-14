@@ -1,0 +1,46 @@
+{
+  "name": "Building Energy Efficiency",
+  "description": "Dataset containing building energy efficiency attributes and performance metrics.",
+  "columns": [
+    {
+      "name": "Compactness",
+      "display_name": "Compactness",
+      "description": "Information about Compactness."
+    },
+    {
+      "name": "WallArea",
+      "display_name": "Wallarea",
+      "description": "Wall area measurement of the building."
+    },
+    {
+      "name": "RoofArea",
+      "display_name": "Roofarea",
+      "description": "Roof area measurement of the building."
+    },
+    {
+      "name": "Height",
+      "display_name": "Height",
+      "description": "Height of the building."
+    },
+    {
+      "name": "Orientation",
+      "display_name": "Orientation",
+      "description": "Orientation of the building."
+    },
+    {
+      "name": "WindowArea",
+      "display_name": "Windowarea",
+      "description": "Information about Windowarea."
+    },
+    {
+      "name": "WindowDistribution",
+      "display_name": "Windowdistribution",
+      "description": "Information about Windowdistribution."
+    },
+    {
+      "name": "CoolingLoad",
+      "display_name": "Coolingload",
+      "description": "Cooling load requirement for the building."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Bike Usage",
+  "description": "Dataset recording bike usage type and weather conditions.",
+  "columns": [
+    {
+      "name": "weathersit",
+      "display_name": "Weather Situation",
+      "description": "Weather condition at the time of bike usage (e.g., Clear, Cloudy, Rainy)."
+    },
+    {
+      "name": "type",
+      "display_name": "User Type",
+      "description": "Type of bike user (e.g., casual, registered)."
+    }
+  ]
+}

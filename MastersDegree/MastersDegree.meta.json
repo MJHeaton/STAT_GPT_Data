@@ -1,0 +1,16 @@
+{
+  "name": "Masters Degree Data",
+  "description": "Dataset recording gender and master's degree attainment status.",
+  "columns": [
+    {
+      "name": "Gender",
+      "display_name": "Gender",
+      "description": "Gender of the individual (M = Male, F = Female)."
+    },
+    {
+      "name": "MS",
+      "display_name": "Ms",
+      "description": "Indicates whether the individual has a master's degree (Y = Yes, N = No)."
+    }
+  ]
+}

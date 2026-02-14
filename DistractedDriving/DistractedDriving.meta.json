@@ -1,0 +1,21 @@
+{
+  "name": "Distracted Driving Data",
+  "description": "Dataset recording distracted driving behaviors and related attributes.",
+  "columns": [
+    {
+      "name": "Crash",
+      "display_name": "Crash",
+      "description": "Information about Crash."
+    },
+    {
+      "name": "Distracted",
+      "display_name": "Distracted",
+      "description": "Information about Distracted."
+    },
+    {
+      "name": "Age",
+      "display_name": "Age",
+      "description": "Information about Age."
+    }
+  ]
+}

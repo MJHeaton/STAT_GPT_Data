@@ -1,0 +1,16 @@
+{
+  "name": "Plants Data",
+  "description": "Dataset containing measurements or classifications of plants.",
+  "columns": [
+    {
+      "name": "weight",
+      "display_name": "Weight",
+      "description": "Information about Weight."
+    },
+    {
+      "name": "group",
+      "display_name": "Group",
+      "description": "Information about Group."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Beliefs About Aliens",
+  "description": "Survey dataset recording whether respondents believe aliens exist or have visited Earth.",
+  "columns": [
+    {
+      "name": "PersonID",
+      "display_name": "Person ID",
+      "description": "Unique identifier for each survey respondent."
+    },
+    {
+      "name": "Exist",
+      "display_name": "Belief About Aliens",
+      "description": "Respondents statement about the existence of aliens or whether they have visited Earth."
+    }
+  ]
+}

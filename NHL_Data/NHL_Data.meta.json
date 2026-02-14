@@ -1,0 +1,76 @@
+{
+  "name": "NHL Data",
+  "description": "Dataset containing statistics for NHL players and teams.",
+  "columns": [
+    {
+      "name": "Unnamed: 0",
+      "display_name": "Unnamed: 0",
+      "description": "Information about Unnamed: 0."
+    },
+    {
+      "name": "Birthday",
+      "display_name": "Birthday",
+      "description": "Information about Birthday."
+    },
+    {
+      "name": "Home.City",
+      "display_name": "Home City",
+      "description": "Information about Home City."
+    },
+    {
+      "name": "Nationality",
+      "display_name": "Nationality",
+      "description": "Information about Nationality."
+    },
+    {
+      "name": "Height..in.",
+      "display_name": "Height  In ",
+      "description": "Information about Height  In ."
+    },
+    {
+      "name": "Weight..lbs.",
+      "display_name": "Weight  Lbs ",
+      "description": "Information about Weight  Lbs ."
+    },
+    {
+      "name": "Dominant.Hand",
+      "display_name": "Dominant Hand",
+      "description": "Information about Dominant Hand."
+    },
+    {
+      "name": "Age",
+      "display_name": "Age",
+      "description": "Information about Age."
+    },
+    {
+      "name": "Seasons.Played",
+      "display_name": "Seasons Played",
+      "description": "Information about Seasons Played."
+    },
+    {
+      "name": "Team",
+      "display_name": "Team",
+      "description": "Information about Team."
+    },
+    {
+      "name": "Games.Played",
+      "display_name": "Games Played",
+      "description": "Information about Games Played."
+    },
+    {
+      "name": "Number.of.Penalties",
+      "display_name": "Number Of Penalties",
+      "description": "Information about Number Of Penalties."
+    },
+    {
+      "name": "Goals.Scored",
+      "display_name": "Goals Scored",
+      "description": "Information about Goals Scored."
+    },
+    {
+      "name": "Average.Shot.Distance",
+      "display_name": "Average Shot Distance",
+      "description": "Information about Average Shot Distance."
+    }
+  ]
+}

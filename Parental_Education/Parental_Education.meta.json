@@ -1,0 +1,46 @@
+{
+  "name": "Parental Education Data",
+  "description": "Dataset containing information on parental education levels and related attributes.",
+  "columns": [
+    {
+      "name": "gender",
+      "display_name": "Gender",
+      "description": "Information about Gender."
+    },
+    {
+      "name": "race/ethnicity",
+      "display_name": "Race/Ethnicity",
+      "description": "Information about Race/Ethnicity."
+    },
+    {
+      "name": "parental level of education",
+      "display_name": "Parental Level Of Education",
+      "description": "Information about Parental Level Of Education."
+    },
+    {
+      "name": "lunch",
+      "display_name": "Lunch",
+      "description": "Information about Lunch."
+    },
+    {
+      "name": "test preparation course",
+      "display_name": "Test Preparation Course",
+      "description": "Information about Test Preparation Course."
+    },
+    {
+      "name": "math score",
+      "display_name": "Math Score",
+      "description": "Information about Math Score."
+    },
+    {
+      "name": "reading score",
+      "display_name": "Reading Score",
+      "description": "Information about Reading Score."
+    },
+    {
+      "name": "writing score",
+      "display_name": "Writing Score",
+      "description": "Information about Writing Score."
+    }
+  ]
+}

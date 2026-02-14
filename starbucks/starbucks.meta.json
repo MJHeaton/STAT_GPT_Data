@@ -1,0 +1,86 @@
+{
+  "name": "Starbucks Menu Data",
+  "description": "Dataset containing nutritional and pricing information about Starbucks menu items.",
+  "columns": [
+    {
+      "name": "Unnamed: 0",
+      "display_name": "Unnamed: 0",
+      "description": "Information about Unnamed: 0."
+    },
+    {
+      "name": "Gender",
+      "display_name": "Gender",
+      "description": "Male or Female"
+    },
+    {
+      "name": "Age",
+      "display_name": "Age",
+      "description": "Information about Age."
+    },
+    {
+      "name": "Status",
+      "display_name": "Status",
+      "description": "Information about Status."
+    },
+    {
+      "name": "Visit",
+      "display_name": "Visit",
+      "description": "Information about Visit."
+    },
+    {
+      "name": "Method",
+      "display_name": "Method",
+      "description": "Information about Method."
+    },
+    {
+      "name": "Time_spent",
+      "display_name": "Time Spent",
+      "description": "Information about Time Spent."
+    },
+    {
+      "name": "Closest_Shop",
+      "display_name": "Closest Shop",
+      "description": "Information about Closest Shop."
+    },
+    {
+      "name": "Membership_Card",
+      "display_name": "Membership Card",
+      "description": "Information about Membership Card."
+    },
+    {
+      "name": "Quality",
+      "display_name": "Quality",
+      "description": "Information about Quality."
+    },
+    {
+      "name": "Promotions",
+      "display_name": "Promotions",
+      "description": "Information about Promotions."
+    },
+    {
+      "name": "Ambiance",
+      "display_name": "Ambiance",
+      "description": "Information about Ambiance."
+    },
+    {
+      "name": "Wifi",
+      "display_name": "Wifi",
+      "description": "Information about Wifi."
+    },
+    {
+      "name": "Customer_Service",
+      "display_name": "Customer Service",
+      "description": "Information about Customer Service."
+    },
+    {
+      "name": "Social/Meetings",
+      "display_name": "Social/Meetings",
+      "description": "Information about Social/Meetings."
+    },
+    {
+      "name": "Return",
+      "display_name": "Return",
+      "description": "Information about Return."
+    }
+  ]
+}

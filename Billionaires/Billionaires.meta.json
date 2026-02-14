@@ -1,0 +1,56 @@
+{
+  "name": "Billionaires Dataset",
+  "description": "Dataset containing information about billionaires including demographics, wealth, and business sectors.",
+  "columns": [
+    {
+      "name": "position",
+      "display_name": "Position",
+      "description": "Ranking of wealth with 1 being the most wealthy."
+    },
+    {
+      "name": "wealth",
+      "display_name": "Wealth",
+      "description": "Wealth in millions of dollars."
+    },
+    {
+      "name": "industry",
+      "display_name": "Industry",
+      "description": "Industry of billionaire."
+    },
+    {
+      "name": "full_name",
+      "display_name": "Full Name",
+      "description": "Full Name of Billionaire."
+    },
+    {
+      "name": "age",
+      "display_name": "Age",
+      "description": "Age of Billionaire"
+    },
+    {
+      "name": "country_of_residence",
+      "display_name": "Country Of Residence",
+      "description": "Country Of Residence."
+    },
+    {
+      "name": "city_of_residence",
+      "display_name": "City Of Residence",
+      "description": "City Of Residence."
+    },
+    {
+      "name": "source",
+      "display_name": "Source",
+      "description": "Company Name."
+    },
+    {
+      "name": "citizenship",
+      "display_name": "Citizenship",
+      "description": "Country of Citizenship."
+    },
+    {
+      "name": "gender",
+      "display_name": "Gender",
+      "description": "Gender."
+    }
+  ]
+}

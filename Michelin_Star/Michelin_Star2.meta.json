@@ -1,0 +1,31 @@
+{
+  "name": "Michelin Star Restaurants",
+  "description": "Dataset containing information about Michelin star restaurants, including stars, cuisine, and location.",
+  "columns": [
+    {
+      "name": "name",
+      "display_name": "Name",
+      "description": "Information about Name."
+    },
+    {
+      "name": "region",
+      "display_name": "Region",
+      "description": "Information about Region."
+    },
+    {
+      "name": "cuisine",
+      "display_name": "Cuisine",
+      "description": "Information about Cuisine."
+    },
+    {
+      "name": "price",
+      "display_name": "Price",
+      "description": "Information about Price."
+    },
+    {
+      "name": "stars",
+      "display_name": "Stars",
+      "description": "Information about Stars."
+    }
+  ]
+}

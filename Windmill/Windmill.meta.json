@@ -1,0 +1,16 @@
+{
+  "name": "Windmill Performance Data",
+  "description": "Dataset containing windmill performance with current and rated speeds.",
+  "columns": [
+    {
+      "name": "CSpd",
+      "display_name": "Cspd",
+      "description": "Avg windspeed at candidate windmill site."
+    },
+    {
+      "name": "RSpd",
+      "display_name": "Rspd",
+      "description": "Avg windspeed at a reference windmill site"
+    }
+  ]
+}

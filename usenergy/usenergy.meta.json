@@ -1,0 +1,51 @@
+{
+  "name": "U.S. Energy Data",
+  "description": "Dataset containing energy usage, production, and related statistics for the United States.",
+  "columns": [
+    {
+      "name": "Unnamed: 0",
+      "display_name": "Unnamed: 0",
+      "description": "Information about Unnamed: 0."
+    },
+    {
+      "name": "Wind Generation (MWh)",
+      "display_name": "Wind Generation (Mwh)",
+      "description": "Information about Wind Generation (Mwh)."
+    },
+    {
+      "name": "Solar Generation (MWh)",
+      "display_name": "Solar Generation (Mwh)",
+      "description": "Information about Solar Generation (Mwh)."
+    },
+    {
+      "name": "Hydro Generation (MWh)",
+      "display_name": "Hydro Generation (Mwh)",
+      "description": "Information about Hydro Generation (Mwh)."
+    },
+    {
+      "name": "Other Generation (MWh)",
+      "display_name": "Other Generation (Mwh)",
+      "description": "Information about Other Generation (Mwh)."
+    },
+    {
+      "name": "Petroleum Generation (MWh)",
+      "display_name": "Petroleum Generation (Mwh)",
+      "description": "Information about Petroleum Generation (Mwh)."
+    },
+    {
+      "name": "Natural gas Generation (MWh)",
+      "display_name": "Natural Gas Generation (Mwh)",
+      "description": "Information about Natural Gas Generation (Mwh)."
+    },
+    {
+      "name": "Coal Generation (MWh)",
+      "display_name": "Coal Generation (Mwh)",
+      "description": "Information about Coal Generation (Mwh)."
+    },
+    {
+      "name": "Nuclear Generation (MWh)",
+      "display_name": "Nuclear Generation (Mwh)",
+      "description": "Information about Nuclear Generation (Mwh)."
+    }
+  ]
+}

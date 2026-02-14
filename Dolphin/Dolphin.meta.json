@@ -1,0 +1,51 @@
+{
+  "name": "Dolphin Data",
+  "description": "Dataset with observations and measurements of dolphins.",
+  "columns": [
+    {
+      "name": "speed",
+      "display_name": "Speed",
+      "description": "Information about Speed."
+    },
+    {
+      "name": "rr",
+      "display_name": "Rr",
+      "description": "Information about Rr."
+    },
+    {
+      "name": "lin",
+      "display_name": "Lin",
+      "description": "Information about Lin."
+    },
+    {
+      "name": "distance",
+      "display_name": "Distance",
+      "description": "Information about Distance."
+    },
+    {
+      "name": "timeper",
+      "display_name": "Timeper",
+      "description": "Information about Timeper."
+    },
+    {
+      "name": "cat",
+      "display_name": "Cat",
+      "description": "Information about Cat."
+    },
+    {
+      "name": "grpsize",
+      "display_name": "Grpsize",
+      "description": "Information about Grpsize."
+    },
+    {
+      "name": "calf",
+      "display_name": "Calf",
+      "description": "Information about Calf."
+    },
+    {
+      "name": "behav",
+      "display_name": "Behav",
+      "description": "Information about Behav."
+    }
+  ]
+}

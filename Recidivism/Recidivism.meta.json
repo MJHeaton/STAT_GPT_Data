@@ -1,0 +1,66 @@
+{
+  "name": "Recidivism Data",
+  "description": "Dataset containing information about recidivism, including offender demographics and repeat offenses.",
+  "columns": [
+    {
+      "name": "sex",
+      "display_name": "Sex",
+      "description": "Information about Sex."
+    },
+    {
+      "name": "age",
+      "display_name": "Age",
+      "description": "Information about Age."
+    },
+    {
+      "name": "juv_fel_count",
+      "display_name": "Juv Fel Count",
+      "description": "Information about Juv Fel Count."
+    },
+    {
+      "name": "race",
+      "display_name": "Race",
+      "description": "Information about Race."
+    },
+    {
+      "name": "juv_misd_count",
+      "display_name": "Juv Misd Count",
+      "description": "Information about Juv Misd Count."
+    },
+    {
+      "name": "juv_other_count",
+      "display_name": "Juv Other Count",
+      "description": "Information about Juv Other Count."
+    },
+    {
+      "name": "PriorCount",
+      "display_name": "Priorcount",
+      "description": "Information about Priorcount."
+    },
+    {
+      "name": "is_recid",
+      "display_name": "Is Recid",
+      "description": "Information about Is Recid."
+    },
+    {
+      "name": "is_violent_recid",
+      "display_name": "Is Violent Recid",
+      "description": "Information about Is Violent Recid."
+    },
+    {
+      "name": "ChargeDegree",
+      "display_name": "Chargedegree",
+      "description": "Information about Chargedegree."
+    },
+    {
+      "name": "DaysInJail",
+      "display_name": "Daysinjail",
+      "description": "Information about Daysinjail."
+    },
+    {
+      "name": "RecidScore",
+      "display_name": "Recidscore",
+      "description": "Information about Recidscore."
+    }
+  ]
+}

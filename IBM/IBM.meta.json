@@ -1,0 +1,181 @@
+{
+  "name": "IBM Employee Data",
+  "description": "Dataset containing employee attributes and HR-related data from IBM.",
+  "columns": [
+    {
+      "name": "Age",
+      "display_name": "Age",
+      "description": "Information about Age."
+    },
+    {
+      "name": "Attrition",
+      "display_name": "Attrition",
+      "description": "Information about Attrition."
+    },
+    {
+      "name": "BusinessTravel",
+      "display_name": "Businesstravel",
+      "description": "Information about Businesstravel."
+    },
+    {
+      "name": "DailyRate",
+      "display_name": "Dailyrate",
+      "description": "Information about Dailyrate."
+    },
+    {
+      "name": "Department",
+      "display_name": "Department",
+      "description": "Information about Department."
+    },
+    {
+      "name": "DistanceFromHome",
+      "display_name": "Distancefromhome",
+      "description": "Information about Distancefromhome."
+    },
+    {
+      "name": "Education",
+      "display_name": "Education",
+      "description": "Information about Education."
+    },
+    {
+      "name": "EducationField",
+      "display_name": "Educationfield",
+      "description": "Information about Educationfield."
+    },
+    {
+      "name": "EmployeeCount",
+      "display_name": "Employeecount",
+      "description": "Information about Employeecount."
+    },
+    {
+      "name": "EmployeeNumber",
+      "display_name": "Employeenumber",
+      "description": "Information about Employeenumber."
+    },
+    {
+      "name": "EnvironmentSatisfaction",
+      "display_name": "Environmentsatisfaction",
+      "description": "Information about Environmentsatisfaction."
+    },
+    {
+      "name": "Gender",
+      "display_name": "Gender",
+      "description": "Information about Gender."
+    },
+    {
+      "name": "HourlyRate",
+      "display_name": "Hourlyrate",
+      "description": "Information about Hourlyrate."
+    },
+    {
+      "name": "JobInvolvement",
+      "display_name": "Jobinvolvement",
+      "description": "Information about Jobinvolvement."
+    },
+    {
+      "name": "JobLevel",
+      "display_name": "Joblevel",
+      "description": "Information about Joblevel."
+    },
+    {
+      "name": "JobRole",
+      "display_name": "Jobrole",
+      "description": "Information about Jobrole."
+    },
+    {
+      "name": "JobSatisfaction",
+      "display_name": "Jobsatisfaction",
+      "description": "Information about Jobsatisfaction."
+    },
+    {
+      "name": "MaritalStatus",
+      "display_name": "Maritalstatus",
+      "description": "Information about Maritalstatus."
+    },
+    {
+      "name": "MonthlyIncome",
+      "display_name": "Monthlyincome",
+      "description": "Information about Monthlyincome."
+    },
+    {
+      "name": "MonthlyRate",
+      "display_name": "Monthlyrate",
+      "description": "Information about Monthlyrate."
+    },
+    {
+      "name": "NumCompaniesWorked",
+      "display_name": "Numcompaniesworked",
+      "description": "Information about Numcompaniesworked."
+    },
+    {
+      "name": "Over18",
+      "display_name": "Over18",
+      "description": "Information about Over18."
+    },
+    {
+      "name": "OverTime",
+      "display_name": "Overtime",
+      "description": "Information about Overtime."
+    },
+    {
+      "name": "PercentSalaryHike",
+      "display_name": "Percentsalaryhike",
+      "description": "Information about Percentsalaryhike."
+    },
+    {
+      "name": "PerformanceRating",
+      "display_name": "Performancerating",
+      "description": "Information about Performancerating."
+    },
+    {
+      "name": "RelationshipSatisfaction",
+      "display_name": "Relationshipsatisfaction",
+      "description": "Information about Relationshipsatisfaction."
+    },
+    {
+      "name": "StandardHours",
+      "display_name": "Standardhours",
+      "description": "Information about Standardhours."
+    },
+    {
+      "name": "StockOptionLevel",
+      "display_name": "Stockoptionlevel",
+      "description": "Information about Stockoptionlevel."
+    },
+    {
+      "name": "TotalWorkingYears",
+      "display_name": "Totalworkingyears",
+      "description": "Information about Totalworkingyears."
+    },
+    {
+      "name": "TrainingTimesLastYear",
+      "display_name": "Trainingtimeslastyear",
+      "description": "Information about Trainingtimeslastyear."
+    },
+    {
+      "name": "WorkLifeBalance",
+      "display_name": "Worklifebalance",
+      "description": "Information about Worklifebalance."
+    },
+    {
+      "name": "YearsAtCompany",
+      "display_name": "Yearsatcompany",
+      "description": "Information about Yearsatcompany."
+    },
+    {
+      "name": "YearsInCurrentRole",
+      "display_name": "Yearsincurrentrole",
+      "description": "Information about Yearsincurrentrole."
+    },
+    {
+      "name": "YearsSinceLastPromotion",
+      "display_name": "Yearssincelastpromotion",
+      "description": "Information about Yearssincelastpromotion."
+    },
+    {
+      "name": "YearsWithCurrManager",
+      "display_name": "Yearswithcurrmanager",
+      "description": "Information about Yearswithcurrmanager."
+    }
+  ]
+}

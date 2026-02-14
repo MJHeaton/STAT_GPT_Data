@@ -1,0 +1,16 @@
+{
+  "name": "Work Hours Data",
+  "description": "Dataset containing information about work hours of individuals or groups.",
+  "columns": [
+    {
+      "name": "Education",
+      "display_name": "Education",
+      "description": "Information about Education."
+    },
+    {
+      "name": "AvgWorkHoursPerWeek",
+      "display_name": "Avgworkhoursperweek",
+      "description": "Information about average hours of work per week."
+    }
+  ]
+}

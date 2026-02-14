@@ -1,0 +1,31 @@
+{
+  "name": "GPA Data",
+  "description": "Dataset containing Grade Point Average (GPA) values and related attributes.",
+  "columns": [
+    {
+      "name": "gpa",
+      "display_name": "Gpa",
+      "description": "Information about Gpa."
+    },
+    {
+      "name": "studyweek",
+      "display_name": "Studyweek",
+      "description": "Information about Studyweek."
+    },
+    {
+      "name": "sleepnight",
+      "display_name": "Sleepnight",
+      "description": "Information about Sleepnight."
+    },
+    {
+      "name": "out",
+      "display_name": "Out",
+      "description": "Information about Out."
+    },
+    {
+      "name": "gender",
+      "display_name": "Gender",
+      "description": "Information about Gender."
+    }
+  ]
+}

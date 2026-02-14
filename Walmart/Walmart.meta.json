@@ -1,0 +1,31 @@
+{
+  "name": "Walmart Data",
+  "description": "Dataset containing sales and related attributes from Walmart stores.",
+  "columns": [
+    {
+      "name": "Temperature",
+      "display_name": "Temperature",
+      "description": "Information about Temperature."
+    },
+    {
+      "name": "Fuel_Price",
+      "display_name": "Fuel Price",
+      "description": "Information about Fuel Price."
+    },
+    {
+      "name": "CPI",
+      "display_name": "Cpi",
+      "description": "Information about Cpi."
+    },
+    {
+      "name": "Unemployment",
+      "display_name": "Unemployment",
+      "description": "Information about Unemployment."
+    },
+    {
+      "name": "Weekly_Sales",
+      "display_name": "Weekly Sales",
+      "description": "Information about Weekly Sales."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Climber Drug Use",
+  "description": "Dataset recording drug use among climbers.",
+  "columns": [
+    {
+      "name": "Positive or Negative",
+      "display_name": "Positive Or Negative",
+      "description": "Information about Positive Or Negative."
+    },
+    {
+      "name": "Drug Type",
+      "display_name": "Drug Type",
+      "description": "Information about Drug Type."
+    },
+    {
+      "name": "concentration",
+      "display_name": "Concentration",
+      "description": "Information about Concentration."
+    }
+  ]
+}

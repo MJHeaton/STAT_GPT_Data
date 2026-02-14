@@ -1,0 +1,16 @@
+{
+  "name": "Networking Data",
+  "description": "Dataset indicating whether workers are part of a network.",
+  "columns": [
+    {
+      "name": "Worker_ID",
+      "display_name": "Worker Id",
+      "description": "Unique identifier for each worker."
+    },
+    {
+      "name": "Network",
+      "display_name": "Network",
+      "description": "Indicates if the worker is in a professional network (Yes/No)."
+    }
+  ]
+}

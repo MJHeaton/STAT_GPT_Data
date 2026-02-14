@@ -1,0 +1,21 @@
+{
+  "name": "Chick-fil-A Orders",
+  "description": "Dataset recording Chick-fil-A orders with correctness and visit time.",
+  "columns": [
+    {
+      "name": "VisitIDNumber",
+      "display_name": "Visitidnumber",
+      "description": "Identifier for each Chick-fil-A visit."
+    },
+    {
+      "name": "CorrectOrder",
+      "display_name": "Correctorder",
+      "description": "Indicates if the order was accurate or inaccurate."
+    },
+    {
+      "name": "TimeOfVisit",
+      "display_name": "Timeofvisit",
+      "description": "Time the visit took place (hh:mm format)."
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Diamonds Prices 2022",
+  "description": "Dataset containing attributes and pricing information of diamonds for the year 2022.",
+  "columns": [
+    {
+      "name": "Unnamed: 0",
+      "display_name": "Unnamed: 0",
+      "description": "Information about Unnamed: 0."
+    },
+    {
+      "name": "carat",
+      "display_name": "Carat",
+      "description": "Information about Carat."
+    },
+    {
+      "name": "cut",
+      "display_name": "Cut",
+      "description": "Information about Cut."
+    },
+    {
+      "name": "color",
+      "display_name": "Color",
+      "description": "Information about Color."
+    },
+    {
+      "name": "clarity",
+      "display_name": "Clarity",
+      "description": "Information about Clarity."
+    },
+    {
+      "name": "depth",
+      "display_name": "Depth",
+      "description": "Information about Depth."
+    },
+    {
+      "name": "table",
+      "display_name": "Table",
+      "description": "Information about Table."
+    },
+    {
+      "name": "price",
+      "display_name": "Price",
+      "description": "Information about Price."
+    },
+    {
+      "name": "x",
+      "display_name": "X",
+      "description": "Information about X."
+    },
+    {
+      "name": "y",
+      "display_name": "Y",
+      "description": "Information about Y."
+    },
+    {
+      "name": "z",
+      "display_name": "Z",
+      "description": "Information about Z."
+    }
+  ]
+}

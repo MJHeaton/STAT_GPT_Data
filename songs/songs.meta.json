@@ -1,0 +1,101 @@
+{
+  "name": "Songs Data",
+  "description": "Dataset containing information about songs, including attributes such as artist, genre, and duration.",
+  "columns": [
+    {
+      "name": "Unnamed: 0",
+      "display_name": "Unnamed: 0",
+      "description": "Information about Unnamed: 0."
+    },
+    {
+      "name": "artist",
+      "display_name": "Artist",
+      "description": "Information about Artist."
+    },
+    {
+      "name": "song",
+      "display_name": "Song",
+      "description": "Information about Song."
+    },
+    {
+      "name": "duration_ms",
+      "display_name": "Duration Ms",
+      "description": "Information about Duration Ms."
+    },
+    {
+      "name": "explicit",
+      "display_name": "Explicit",
+      "description": "Information about Explicit."
+    },
+    {
+      "name": "year",
+      "display_name": "Year",
+      "description": "Information about Year."
+    },
+    {
+      "name": "popularity",
+      "display_name": "Popularity",
+      "description": "Information about Popularity."
+    },
+    {
+      "name": "danceability",
+      "display_name": "Danceability",
+      "description": "Information about Danceability."
+    },
+    {
+      "name": "energy",
+      "display_name": "Energy",
+      "description": "Information about Energy."
+    },
+    {
+      "name": "key",
+      "display_name": "Key",
+      "description": "Information about Key."
+    },
+    {
+      "name": "loudness",
+      "display_name": "Loudness",
+      "description": "Information about Loudness."
+    },
+    {
+      "name": "mode",
+      "display_name": "Mode",
+      "description": "Information about Mode."
+    },
+    {
+      "name": "speechiness",
+      "display_name": "Speechiness",
+      "description": "Information about Speechiness."
+    },
+    {
+      "name": "acousticnes",
+      "display_name": "Acousticnes",
+      "description": "Information about Acousticnes."
+    },
+    {
+      "name": "instrumentalness",
+      "display_name": "Instrumentalness",
+      "description": "Information about Instrumentalness."
+    },
+    {
+      "name": "liveness",
+      "display_name": "Liveness",
+      "description": "Information about Liveness."
+    },
+    {
+      "name": "valence",
+      "display_name": "Valence",
+      "description": "Information about Valence."
+    },
+    {
+      "name": "tempo",
+      "display_name": "Tempo",
+      "description": "Information about Tempo."
+    },
+    {
+      "name": "genre",
+      "display_name": "Genre",
+      "description": "Information about Genre."
+    }
+  ]
+}

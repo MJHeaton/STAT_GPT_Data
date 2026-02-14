@@ -1,0 +1,16 @@
+{
+  "name": "Lawyers Data",
+  "description": "Dataset containing information about lawyers and related attributes.",
+  "columns": [
+    {
+      "name": "Industry",
+      "display_name": "Industry",
+      "description": "Information about Industry."
+    },
+    {
+      "name": "LawyersPerBillion",
+      "display_name": "Lawyersperbillion",
+      "description": "Information about Lawyersperbillion."
+    }
+  ]
+}

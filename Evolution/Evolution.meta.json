@@ -1,0 +1,146 @@
+{
+  "name": "Evolution Data",
+  "description": "Dataset containing evolutionary data and measurements of species attributes.",
+  "columns": [
+    {
+      "name": "Genus",
+      "display_name": "Genus",
+      "description": "Information about Genus."
+    },
+    {
+      "name": "Time",
+      "display_name": "Time",
+      "description": "Information about Time."
+    },
+    {
+      "name": "Location",
+      "display_name": "Location",
+      "description": "Information about Location."
+    },
+    {
+      "name": "Zone",
+      "display_name": "Zone",
+      "description": "Information about Zone."
+    },
+    {
+      "name": "Current_Country",
+      "display_name": "Current Country",
+      "description": "Information about Current Country."
+    },
+    {
+      "name": "Habitat",
+      "display_name": "Habitat",
+      "description": "Information about Habitat."
+    },
+    {
+      "name": "Cranial_Capacity",
+      "display_name": "Cranial Capacity",
+      "description": "Information about Cranial Capacity."
+    },
+    {
+      "name": "Height",
+      "display_name": "Height",
+      "description": "Information about Height."
+    },
+    {
+      "name": "Incisor_Size",
+      "display_name": "Incisor Size",
+      "description": "Information about Incisor Size."
+    },
+    {
+      "name": "Jaw_Shape",
+      "display_name": "Jaw Shape",
+      "description": "Information about Jaw Shape."
+    },
+    {
+      "name": "Torus_Supraorbital",
+      "display_name": "Torus Supraorbital",
+      "description": "Information about Torus Supraorbital."
+    },
+    {
+      "name": "Prognathism",
+      "display_name": "Prognathism",
+      "description": "Information about Prognathism."
+    },
+    {
+      "name": "Foramen_M\u00e1gnum_Position",
+      "display_name": "Foramen M\u00e1gnum Position",
+      "description": "Information about Foramen M\u00e1gnum Position."
+    },
+    {
+      "name": "Canine.Size",
+      "display_name": "Canine Size",
+      "description": "Information about Canine Size."
+    },
+    {
+      "name": "Canines_Shape",
+      "display_name": "Canines Shape",
+      "description": "Information about Canines Shape."
+    },
+    {
+      "name": "Tooth_Enamel",
+      "display_name": "Tooth Enamel",
+      "description": "Information about Tooth Enamel."
+    },
+    {
+      "name": "Tecno",
+      "display_name": "Tecno",
+      "description": "Information about Tecno."
+    },
+    {
+      "name": "Tecno_type",
+      "display_name": "Tecno Type",
+      "description": "Information about Tecno Type."
+    },
+    {
+      "name": "biped",
+      "display_name": "Biped",
+      "description": "Information about Biped."
+    },
+    {
+      "name": "Arms",
+      "display_name": "Arms",
+      "description": "Information about Arms."
+    },
+    {
+      "name": "Foots",
+      "display_name": "Foots",
+      "description": "Information about Foots."
+    },
+    {
+      "name": "Diet",
+      "display_name": "Diet",
+      "description": "Information about Diet."
+    },
+    {
+      "name": "Sexual_Dimorphism",
+      "display_name": "Sexual Dimorphism",
+      "description": "Information about Sexual Dimorphism."
+    },
+    {
+      "name": "Hip",
+      "display_name": "Hip",
+      "description": "Information about Hip."
+    },
+    {
+      "name": "Vertical_Front",
+      "display_name": "Vertical Front",
+      "description": "Information about Vertical Front."
+    },
+    {
+      "name": "Anatomy",
+      "display_name": "Anatomy",
+      "description": "Information about Anatomy."
+    },
+    {
+      "name": "Migrated",
+      "display_name": "Migrated",
+      "description": "Information about Migrated."
+    },
+    {
+      "name": "Skeleton",
+      "display_name": "Skeleton",
+      "description": "Information about Skeleton."
+    }
+  ]
+}

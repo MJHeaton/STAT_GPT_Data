@@ -1,0 +1,86 @@
+{
+  "name": "Cereal Nutrition Data",
+  "description": "Dataset containing nutritional information about breakfast cereals.",
+  "columns": [
+    {
+      "name": "name",
+      "display_name": "Name",
+      "description": "Name of the cereal brand or type."
+    },
+    {
+      "name": "mfr",
+      "display_name": "Mfr",
+      "description": "Information about Mfr."
+    },
+    {
+      "name": "type",
+      "display_name": "Type",
+      "description": "Information about Type."
+    },
+    {
+      "name": "calories",
+      "display_name": "Calories",
+      "description": "Information about Calories."
+    },
+    {
+      "name": "protein",
+      "display_name": "Protein",
+      "description": "Information about Protein."
+    },
+    {
+      "name": "fat",
+      "display_name": "Fat",
+      "description": "Information about Fat."
+    },
+    {
+      "name": "sodium",
+      "display_name": "Sodium",
+      "description": "Information about Sodium."
+    },
+    {
+      "name": "fiber",
+      "display_name": "Fiber",
+      "description": "Information about Fiber."
+    },
+    {
+      "name": "carbo",
+      "display_name": "Carbo",
+      "description": "Information about Carbo."
+    },
+    {
+      "name": "sugars",
+      "display_name": "Sugars",
+      "description": "Information about Sugars."
+    },
+    {
+      "name": "potass",
+      "display_name": "Potass",
+      "description": "Information about Potass."
+    },
+    {
+      "name": "vitamins",
+      "display_name": "Vitamins",
+      "description": "Information about Vitamins."
+    },
+    {
+      "name": "shelf",
+      "display_name": "Shelf",
+      "description": "Information about Shelf."
+    },
+    {
+      "name": "weight",
+      "display_name": "Weight",
+      "description": "Information about Weight."
+    },
+    {
+      "name": "cups",
+      "display_name": "Cups",
+      "description": "Information about Cups."
+    },
+    {
+      "name": "rating",
+      "display_name": "Rating",
+      "description": "Information about Rating."
+    }
+  ]
+}

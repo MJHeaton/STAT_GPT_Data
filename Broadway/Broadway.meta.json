@@ -1,0 +1,51 @@
+{
+  "name": "Broadway Shows",
+  "description": "Dataset containing information about Broadway shows, including names, statistics, and performance data.",
+  "columns": [
+    {
+      "name": "Show",
+      "display_name": "Show",
+      "description": "Name of the Broadway show."
+    },
+    {
+      "name": "Type",
+      "display_name": "Type",
+      "description": "Information about Type."
+    },
+    {
+      "name": "Revival",
+      "display_name": "Revival",
+      "description": "Information about Revival."
+    },
+    {
+      "name": "NYT rating",
+      "display_name": "Nyt Rating",
+      "description": "Information about Nyt Rating."
+    },
+    {
+      "name": "DN rating",
+      "display_name": "Dn Rating",
+      "description": "Information about Dn Rating."
+    },
+    {
+      "name": "Tony awards",
+      "display_name": "Tony Awards",
+      "description": "Information about Tony Awards."
+    },
+    {
+      "name": "Tony nominations",
+      "display_name": "Tony Nominations",
+      "description": "Information about Tony Nominations."
+    },
+    {
+      "name": "Week 1 attendance",
+      "display_name": "Week 1 Attendance",
+      "description": "Number of attendees for the show."
+    },
+    {
+      "name": "Show run",
+      "display_name": "Show Run",
+      "description": "Information about Show Run."
+    }
+  ]
+}

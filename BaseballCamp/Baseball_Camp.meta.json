@@ -1,0 +1,46 @@
+{
+  "name": "Baseball Camp Performance",
+  "description": "Dataset with player physical attributes, positions, and performance scores before and after camp training.",
+  "columns": [
+    {
+      "name": "Height",
+      "display_name": "Height (cm)",
+      "description": "Height of the player in centimeters."
+    },
+    {
+      "name": "Weight",
+      "display_name": "Weight (kg)",
+      "description": "Weight of the player in kilograms."
+    },
+    {
+      "name": "Age",
+      "display_name": "Age",
+      "description": "Age of the player in years."
+    },
+    {
+      "name": "Dominant_Hand",
+      "display_name": "Dominant Hand",
+      "description": "Indicates dominant hand of the player (0 = Left, 1 = Right)."
+    },
+    {
+      "name": "Position",
+      "display_name": "Position",
+      "description": "Numeric code representing the player's field position."
+    },
+    {
+      "name": "Pre_Score",
+      "display_name": "Pre-Training Score",
+      "description": "Performance score of the player before training."
+    },
+    {
+      "name": "Post_Score",
+      "display_name": "Post-Training Score",
+      "description": "Performance score of the player after training."
+    },
+    {
+      "name": "Difference",
+      "display_name": "Score Difference",
+      "description": "Change in performance score after training (Post - Pre)."
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "name": "Sunshine Dataset",
+  "description": "Metadata for the sunshine dataset.",
+  "columns": [
+    {
+      "name": "Country",
+      "display_name": "Country",
+      "description": "Country field from the sunshine dataset."
+    },
+    {
+      "name": "City",
+      "display_name": "City",
+      "description": "City field from the sunshine dataset."
+    },
+    {
+      "name": "Jan",
+      "display_name": "Jan",
+      "description": "Jan field from the sunshine dataset."
+    },
+    {
+      "name": "Feb",
+      "display_name": "Feb",
+      "description": "Feb field from the sunshine dataset."
+    },
+    {
+      "name": "Mar",
+      "display_name": "Mar",
+      "description": "Mar field from the sunshine dataset."
+    },
+    {
+      "name": "Apr",
+      "display_name": "Apr",
+      "description": "Apr field from the sunshine dataset."
+    },
+    {
+      "name": "May",
+      "display_name": "May",
+      "description": "May field from the sunshine dataset."
+    },
+    {
+      "name": "Jun",
+      "display_name": "Jun",
+      "description": "Jun field from the sunshine dataset."
+    },
+    {
+      "name": "Jul",
+      "display_name": "Jul",
+      "description": "Jul field from the sunshine dataset."
+    },
+    {
+      "name": "Aug",
+      "display_name": "Aug",
+      "description": "Aug field from the sunshine dataset."
+    },
+    {
+      "name": "Sep",
+      "display_name": "Sep",
+      "description": "Sep field from the sunshine dataset."
+    },
+    {
+      "name": "Oct",
+      "display_name": "Oct",
+      "description": "Oct field from the sunshine dataset."
+    },
+    {
+      "name": "Nov",
+      "display_name": "Nov",
+      "description": "Nov field from the sunshine dataset."
+    },
+    {
+      "name": "Dec",
+      "display_name": "Dec",
+      "description": "Dec field from the sunshine dataset."
+    },
+    {
+      "name": "Year",
+      "display_name": "Year",
+      "description": "Year field from the sunshine dataset."
+    }
+  ]
+}

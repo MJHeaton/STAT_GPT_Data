@@ -1,0 +1,46 @@
+{
+  "name": "Possum Data",
+  "description": "Dataset containing biological and morphological measurements of possums.",
+  "columns": [
+    {
+      "name": "site",
+      "display_name": "Site",
+      "description": "Information about Site."
+    },
+    {
+      "name": "pop",
+      "display_name": "Pop",
+      "description": "Information about Pop."
+    },
+    {
+      "name": "sex",
+      "display_name": "Sex",
+      "description": "Information about Sex."
+    },
+    {
+      "name": "age",
+      "display_name": "Age",
+      "description": "Information about Age."
+    },
+    {
+      "name": "head_l",
+      "display_name": "Head L",
+      "description": "Information about Head L."
+    },
+    {
+      "name": "skull_w",
+      "display_name": "Skull W",
+      "description": "Information about Skull W."
+    },
+    {
+      "name": "total_l",
+      "display_name": "Total L",
+      "description": "Information about Total L."
+    },
+    {
+      "name": "tail_l",
+      "display_name": "Tail L",
+      "description": "Information about Tail L."
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "name": "Rate My Professor Data",
+  "description": "Dataset containing professor ratings, attributes, and student feedback from RateMyProfessor.",
+  "columns": [
+    {
+      "name": "numYears",
+      "display_name": "Numyears",
+      "description": "Information about Numyears."
+    },
+    {
+      "name": "numRaters",
+      "display_name": "Numraters",
+      "description": "Information about Numraters."
+    },
+    {
+      "name": "numCourses",
+      "display_name": "Numcourses",
+      "description": "Information about Numcourses."
+    },
+    {
+      "name": "pepper",
+      "display_name": "Pepper",
+      "description": "Information about Pepper."
+    },
+    {
+      "name": "easiness",
+      "display_name": "Easiness",
+      "description": "Information about Easiness."
+    },
+    {
+      "name": "raterInterest",
+      "display_name": "Raterinterest",
+      "description": "Information about Raterinterest."
+    },
+    {
+      "name": "quality",
+      "display_name": "Quality",
+      "description": "Information about Quality."
+    },
+    {
+      "name": "deptBiology",
+      "display_name": "Deptbiology",
+      "description": "Information about Deptbiology."
+    },
+    {
+      "name": "deptBusiness",
+      "display_name": "Deptbusiness",
+      "description": "Information about Deptbusiness."
+    },
+    {
+      "name": "deptChemistry",
+      "display_name": "Deptchemistry",
+      "description": "Information about Deptchemistry."
+    },
+    {
+      "name": "deptCommunication",
+      "display_name": "Deptcommunication",
+      "description": "Information about Deptcommunication."
+    },
+    {
+      "name": "deptCS",
+      "display_name": "Deptcs",
+      "description": "Information about Deptcs."
+    },
+    {
+      "name": "deptEducation",
+      "display_name": "Depteducation",
+      "description": "Information about Depteducation."
+    },
+    {
+      "name": "deptEnglish",
+      "display_name": "Deptenglish",
+      "description": "Information about Deptenglish."
+    },
+    {
+      "name": "deptGeology",
+      "display_name": "Deptgeology",
+      "description": "Information about Deptgeology."
+    },
+    {
+      "name": "deptHistory",
+      "display_name": "Depthistory",
+      "description": "Information about Depthistory."
+    },
+    {
+      "name": "deptLanguages",
+      "display_name": "Deptlanguages",
+      "description": "Information about Deptlanguages."
+    },
+    {
+      "name": "deptMath",
+      "display_name": "Deptmath",
+      "description": "Information about Deptmath."
+    },
+    {
+      "name": "deptMusic",
+      "display_name": "Deptmusic",
+      "description": "Information about Deptmusic."
+    },
+    {
+      "name": "deptPhilosophy",
+      "display_name": "Deptphilosophy",
+      "description": "Information about Deptphilosophy."
+    },
+    {
+      "name": "deptPhysics",
+      "display_name": "Deptphysics",
+      "description": "Information about Deptphysics."
+    },
+    {
+      "name": "deptPolySci",
+      "display_name": "Deptpolysci",
+      "description": "Information about Deptpolysci."
+    },
+    {
+      "name": "deptPsychology",
+      "display_name": "Deptpsychology",
+      "description": "Information about Deptpsychology."
+    },
+    {
+      "name": "deptReligion",
+      "display_name": "Deptreligion",
+      "description": "Information about Deptreligion."
+    },
+    {
+      "name": "deptSocialScience",
+      "display_name": "Deptsocialscience",
+      "description": "Information about Deptsocialscience."
+    },
+    {
+      "name": "deptSociology",
+      "display_name": "Deptsociology",
+      "description": "Information about Deptsociology."
+    }
+  ]
+}

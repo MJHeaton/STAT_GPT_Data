@@ -1,0 +1,16 @@
+{
+  "name": "Returns Data",
+  "description": "Dataset containing financial return values or product return information.",
+  "columns": [
+    {
+      "name": "Year",
+      "display_name": "Year",
+      "description": "Information about Year."
+    },
+    {
+      "name": "Return",
+      "display_name": "Return",
+      "description": "Information about Return."
+    }
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "name": "NBA Data",
+  "description": "Dataset containing statistics for NBA players and teams.",
+  "columns": [
+    {
+      "name": "Unnamed: 0",
+      "display_name": "Unnamed: 0",
+      "description": "Information about Unnamed: 0."
+    },
+    {
+      "name": "...1",
+      "display_name": "   1",
+      "description": "Information about    1."
+    },
+    {
+      "name": "season",
+      "display_name": "Season",
+      "description": "Information about Season."
+    },
+    {
+      "name": "player",
+      "display_name": "Player",
+      "description": "Information about Player."
+    },
+    {
+      "name": "pos",
+      "display_name": "Pos",
+      "description": "Information about Pos."
+    },
+    {
+      "name": "age",
+      "display_name": "Age",
+      "description": "Information about Age."
+    },
+    {
+      "name": "team_id",
+      "display_name": "Team Id",
+      "description": "Information about Team Id."
+    },
+    {
+      "name": "g",
+      "display_name": "G",
+      "description": "Information about G."
+    },
+    {
+      "name": "gs",
+      "display_name": "Gs",
+      "description": "Information about Gs."
+    },
+    {
+      "name": "mp_per_g",
+      "display_name": "Mp Per G",
+      "description": "Information about Mp Per G."
+    },
+    {
+      "name": "fg_per_g",
+      "display_name": "Fg Per G",
+      "description": "Information about Fg Per G."
+    },
+    {
+      "name": "fga_per_g",
+      "display_name": "Fga Per G",
+      "description": "Information about Fga Per G."
+    },
+    {
+      "name": "fg_pct",
+      "display_name": "Fg Pct",
+      "description": "Information about Fg Pct."
+    },
+    {
+      "name": "fg3_per_g",
+      "display_name": "Fg3 Per G",
+      "description": "Information about Fg3 Per G."
+    },
+    {
+      "name": "fg3a_per_g",
+      "display_name": "Fg3A Per G",
+      "description": "Information about Fg3A Per G."
+    },
+    {
+      "name": "fg3_pct",
+      "display_name": "Fg3 Pct",
+      "description": "Information about Fg3 Pct."
+    },
+    {
+      "name": "fg2_per_g",
+      "display_name": "Fg2 Per G",
+      "description": "Information about Fg2 Per G."
+    },
+    {
+      "name": "fg2a_per_g",
+      "display_name": "Fg2A Per G",
+      "description": "Information about Fg2A Per G."
+    },
+    {
+      "name": "fg2_pct",
+      "display_name": "Fg2 Pct",
+      "description": "Information about Fg2 Pct."
+    },
+    {
+      "name": "efg_pct",
+      "display_name": "Efg Pct",
+      "description": "Information about Efg Pct."
+    },
+    {
+      "name": "ft_per_g",
+      "display_name": "Ft Per G",
+      "description": "Information about Ft Per G."
+    },
+    {
+      "name": "fta_per_g",
+      "display_name": "Fta Per G",
+      "description": "Information about Fta Per G."
+    },
+    {
+      "name": "ft_pct",
+      "display_name": "Ft Pct",
+      "description": "Information about Ft Pct."
+    },
+    {
+      "name": "orb_per_g",
+      "display_name": "Orb Per G",
+      "description": "Information about Orb Per G."
+    },
+    {
+      "name": "drb_per_g",
+      "display_name": "Drb Per G",
+      "description": "Information about Drb Per G."
+    },
+    {
+      "name": "trb_per_g",
+      "display_name": "Trb Per G",
+      "description": "Information about Trb Per G."
+    },
+    {
+      "name": "ast_per_g",
+      "display_name": "Ast Per G",
+      "description": "Information about Ast Per G."
+    },
+    {
+      "name": "stl_per_g",
+      "display_name": "Stl Per G",
+      "description": "Information about Stl Per G."
+    },
+    {
+      "name": "blk_per_g",
+      "display_name": "Blk Per G",
+      "description": "Information about Blk Per G."
+    },
+    {
+      "name": "tov_per_g",
+      "display_name": "Tov Per G",
+      "description": "Information about Tov Per G."
+    },
+    {
+      "name": "pf_per_g",
+      "display_name": "Pf Per G",
+      "description": "Information about Pf Per G."
+    },
+    {
+      "name": "pts_per_g",
+      "display_name": "Pts Per G",
+      "description": "Information about Pts Per G."
+    },
+    {
+      "name": "mp",
+      "display_name": "Mp",
+      "description": "Information about Mp."
+    },
+    {
+      "name": "per",
+      "display_name": "Per",
+      "description": "Information about Per."
+    },
+    {
+      "name": "ts_pct",
+      "display_name": "Ts Pct",
+      "description": "Information about Ts Pct."
+    },
+    {
+      "name": "fg3a_per_fga_pct",
+      "display_name": "Fg3A Per Fga Pct",
+      "description": "Information about Fg3A Per Fga Pct."
+    },
+    {
+      "name": "fta_per_fga_pct",
+      "display_name": "Fta Per Fga Pct",
+      "description": "Information about Fta Per Fga Pct."
+    },
+    {
+      "name": "orb_pct",
+      "display_name": "Orb Pct",
+      "description": "Information about Orb Pct."
+    },
+    {
+      "name": "drb_pct",
+      "display_name": "Drb Pct",
+      "description": "Information about Drb Pct."
+    },
+    {
+      "name": "trb_pct",
+      "display_name": "Trb Pct",
+      "description": "Information about Trb Pct."
+    },
+    {
+      "name": "ast_pct",
+      "display_name": "Ast Pct",
+      "description": "Information about Ast Pct."
+    },
+    {
+      "name": "stl_pct",
+      "display_name": "Stl Pct",
+      "description": "Information about Stl Pct."
+    },
+    {
+      "name": "blk_pct",
+      "display_name": "Blk Pct",
+      "description": "Information about Blk Pct."
+    },
+    {
+      "name": "tov_pct",
+      "display_name": "Tov Pct",
+      "description": "Information about Tov Pct."
+    },
+    {
+      "name": "usg_pct",
+      "display_name": "Usg Pct",
+      "description": "Information about Usg Pct."
+    },
+    {
+      "name": "ows",
+      "display_name": "Ows",
+      "description": "Information about Ows."
+    },
+    {
+      "name": "dws",
+      "display_name": "Dws",
+      "description": "Information about Dws."
+    },
+    {
+      "name": "ws",
+      "display_name": "Ws",
+      "description": "Information about Ws."
+    },
+    {
+      "name": "ws_per_48",
+      "display_name": "Ws Per 48",
+      "description": "Information about Ws Per 48."
+    },
+    {
+      "name": "obpm",
+      "display_name": "Obpm",
+      "description": "Information about Obpm."
+    },
+    {
+      "name": "dbpm",
+      "display_name": "Dbpm",
+      "description": "Information about Dbpm."
+    },
+    {
+      "name": "bpm",
+      "display_name": "Bpm",
+      "description": "Information about Bpm."
+    },
+    {
+      "name": "vorp",
+      "display_name": "Vorp",
+      "description": "Information about Vorp."
+    },
+    {
+      "name": "award_share",
+      "display_name": "Award Share",
+      "description": "Information about Award Share."
+    }
+  ]
+}

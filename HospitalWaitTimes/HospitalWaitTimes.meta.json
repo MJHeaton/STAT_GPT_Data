@@ -1,0 +1,16 @@
+{
+  "name": "Hospital Wait Times",
+  "description": "Dataset containing information about hospital wait times and patient flow.",
+  "columns": [
+    {
+      "name": "TAS",
+      "display_name": "Tas",
+      "description": "Information about Tas."
+    },
+    {
+      "name": "WaitTime",
+      "display_name": "Waittime",
+      "description": "Information about Waittime."
+    }
+  ]
+}

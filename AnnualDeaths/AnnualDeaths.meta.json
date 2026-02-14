@@ -1,0 +1,176 @@
+{
+  "name": "Annual Deaths by Causes",
+  "description": "Dataset reporting annual number of deaths by various causes across countries and years.",
+  "columns": [
+    {
+      "name": "country",
+      "display_name": "Country",
+      "description": "Name of the country."
+    },
+    {
+      "name": "code",
+      "display_name": "Country Code",
+      "description": "Three-letter country code (ISO alpha-3)."
+    },
+    {
+      "name": "year",
+      "display_name": "Year",
+      "description": "Year of observation."
+    },
+    {
+      "name": "meningitis",
+      "display_name": "Deaths from Meningitis",
+      "description": "Annual number of deaths caused by meningitis."
+    },
+    {
+      "name": "alzheimer.s_diesease",
+      "display_name": "Deaths from Alzheimer's Disease",
+      "description": "Annual number of deaths caused by Alzheimer's disease."
+    },
+    {
+      "name": "parkinson.s_disease",
+      "display_name": "Deaths from Parkinson's Disease",
+      "description": "Annual number of deaths caused by Parkinson's disease."
+    },
+    {
+      "name": "nutritional_deficiency",
+      "display_name": "Deaths from Nutritional Deficiencies",
+      "description": "Annual number of deaths caused by nutritional deficiencies."
+    },
+    {
+      "name": "malaria",
+      "display_name": "Deaths from Malaria",
+      "description": "Annual number of deaths caused by malaria."
+    },
+    {
+      "name": "drowning",
+      "display_name": "Deaths from Drowning",
+      "description": "Annual number of deaths caused by drowning."
+    },
+    {
+      "name": "interpersonal_violence",
+      "display_name": "Deaths from Interpersonal Violence",
+      "description": "Annual number of deaths caused by interpersonal violence."
+    },
+    {
+      "name": "maternal_disorders",
+      "display_name": "Deaths from Maternal Disorders",
+      "description": "Annual number of deaths caused by maternal disorders."
+    },
+    {
+      "name": "hiv.aids",
+      "display_name": "Deaths from HIV/AIDS",
+      "description": "Annual number of deaths caused by HIV/AIDS."
+    },
+    {
+      "name": "drug_use_disorders",
+      "display_name": "Deaths from Drug Use Disorders",
+      "description": "Annual number of deaths caused by drug use disorders."
+    },
+    {
+      "name": "tuberculosis",
+      "display_name": "Deaths from Tuberculosis",
+      "description": "Annual number of deaths caused by tuberculosis."
+    },
+    {
+      "name": "cardiovascular_diseases",
+      "display_name": "Deaths from Cardiovascular Diseases",
+      "description": "Annual number of deaths caused by cardiovascular diseases."
+    },
+    {
+      "name": "lower_respiratory_infections",
+      "display_name": "Deaths from Lower Respiratory Infections",
+      "description": "Annual number of deaths caused by lower respiratory infections."
+    },
+    {
+      "name": "neonatal_disorders",
+      "display_name": "Deaths from Neonatal Disorders",
+      "description": "Annual number of deaths caused by neonatal disorders."
+    },
+    {
+      "name": "alcohol_use_disorders",
+      "display_name": "Deaths from Alcohol Use Disorders",
+      "description": "Annual number of deaths caused by alcohol use disorders."
+    },
+    {
+      "name": "self_harm",
+      "display_name": "Deaths from Self-Harm",
+      "description": "Annual number of deaths caused by self-harm."
+    },
+    {
+      "name": "exposure_to_forces_of_nature",
+      "display_name": "Deaths from Natural Forces",
+      "description": "Annual number of deaths caused by exposure to forces of nature."
+    },
+    {
+      "name": "diarrheal_diseases",
+      "display_name": "Deaths from Diarrheal Diseases",
+      "description": "Annual number of deaths caused by diarrheal diseases."
+    },
+    {
+      "name": "environmental_heat_and_cold_exposure",
+      "display_name": "Deaths from Environmental Exposure",
+      "description": "Annual number of deaths caused by heat or cold exposure."
+    },
+    {
+      "name": "neoplasms",
+      "display_name": "Deaths from Neoplasms",
+      "description": "Annual number of deaths caused by neoplasms (cancers)."
+    },
+    {
+      "name": "conflict_and_terrorism",
+      "display_name": "Deaths from Conflict and Terrorism",
+      "description": "Annual number of deaths caused by conflict and terrorism."
+    },
+    {
+      "name": "diabetes_mellitus",
+      "display_name": "Deaths from Diabetes",
+      "description": "Annual number of deaths caused by diabetes mellitus."
+    },
+    {
+      "name": "chronic_kidney_disease",
+      "display_name": "Deaths from Chronic Kidney Disease",
+      "description": "Annual number of deaths caused by chronic kidney disease."
+    },
+    {
+      "name": "poisonings",
+      "display_name": "Deaths from Poisonings",
+      "description": "Annual number of deaths caused by poisonings."
+    },
+    {
+      "name": "protein_energy_malnutrition",
+      "display_name": "Deaths from Protein-Energy Malnutrition",
+      "description": "Annual number of deaths caused by protein-energy malnutrition."
+    },
+    {
+      "name": "road_injuries",
+      "display_name": "Deaths from Road Injuries",
+      "description": "Annual number of deaths caused by road injuries."
+    },
+    {
+      "name": "chronic_respiratory_diseases",
+      "display_name": "Deaths from Chronic Respiratory Diseases",
+      "description": "Annual number of deaths caused by chronic respiratory diseases."
+    },
+    {
+      "name": "chronic_liver_diseases",
+      "display_name": "Deaths from Chronic Liver Diseases",
+      "description": "Annual number of deaths caused by chronic liver diseases."
+    },
+    {
+      "name": "digestive_diseases",
+      "display_name": "Deaths from Digestive Diseases",
+      "description": "Annual number of deaths caused by digestive diseases."
+    },
+    {
+      "name": "fire_heat_hot_substance",
+      "display_name": "Deaths from Fire/Heat/Hot Substances",
+      "description": "Annual number of deaths caused by fire, heat, or hot substances."
+    },
+    {
+      "name": "acute_hepatitis",
+      "display_name": "Deaths from Acute Hepatitis",
+      "description": "Annual number of deaths caused by acute hepatitis."
+    }
+  ]
+}

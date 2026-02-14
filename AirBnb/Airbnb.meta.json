@@ -1,0 +1,121 @@
+{
+  "name": "Airbnb Listings",
+  "description": "Dataset of Airbnb property listings with details about host, location, reviews, and pricing.",
+  "columns": [
+    {
+      "name": "log_price",
+      "display_name": "Log Price",
+      "description": "Natural log of the nightly listing price."
+    },
+    {
+      "name": "property_type",
+      "display_name": "Property Type",
+      "description": "Type of property (e.g., Apartment, House, Condominium)."
+    },
+    {
+      "name": "room_type",
+      "display_name": "Room Type",
+      "description": "Type of room offered (Entire home/apt, Private room, etc.)."
+    },
+    {
+      "name": "accommodates",
+      "display_name": "Accommodates",
+      "description": "Number of guests the listing can accommodate."
+    },
+    {
+      "name": "bathrooms",
+      "display_name": "Bathrooms",
+      "description": "Number of bathrooms available in the listing."
+    },
+    {
+      "name": "bed_type",
+      "display_name": "Bed Type",
+      "description": "Type of bed provided (e.g., Real Bed, Futon)."
+    },
+    {
+      "name": "cancellation_policy",
+      "display_name": "Cancellation Policy",
+      "description": "Type of cancellation policy (e.g., flexible, moderate, strict)."
+    },
+    {
+      "name": "cleaning_fee",
+      "display_name": "Cleaning Fee",
+      "description": "Indicates whether a cleaning fee is charged (True/False)."
+    },
+    {
+      "name": "city",
+      "display_name": "City",
+      "description": "City where the property is located (e.g., NYC, SF, LA)."
+    },
+    {
+      "name": "first_review",
+      "display_name": "First Review Date",
+      "description": "Date of the first review for the listing."
+    },
+    {
+      "name": "host_has_profile_pic",
+      "display_name": "Host Has Profile Picture",
+      "description": "Indicates if the host has a profile picture (t/f)."
+    },
+    {
+      "name": "host_identity_verified",
+      "display_name": "Host Identity Verified",
+      "description": "Indicates if the host\u2019s identity is verified (t/f)."
+    },
+    {
+      "name": "host_response_rate",
+      "display_name": "Host Response Rate",
+      "description": "Percentage response rate of the host."
+    },
+    {
+      "name": "host_since",
+      "display_name": "Host Since",
+      "description": "Date when the host registered on Airbnb."
+    },
+    {
+      "name": "instant_bookable",
+      "display_name": "Instant Bookable",
+      "description": "Indicates if the listing can be instantly booked (t/f)."
+    },
+    {
+      "name": "last_review",
+      "display_name": "Last Review Date",
+      "description": "Date of the most recent review."
+    },
+    {
+      "name": "name",
+      "display_name": "Listing Name",
+      "description": "Title or name of the listing."
+    },
+    {
+      "name": "neighbourhood",
+      "display_name": "Neighbourhood",
+      "description": "Neighbourhood or area where the listing is located."
+    },
+    {
+      "name": "number_of_reviews",
+      "display_name": "Number of Reviews",
+      "description": "Total number of reviews for the listing."
+    },
+    {
+      "name": "review_scores_rating",
+      "display_name": "Review Score Rating",
+      "description": "Average overall rating of the listing (0\u2013100)."
+    },
+    {
+      "name": "zipcode",
+      "display_name": "Zipcode",
+      "description": "Postal code of the listing location."
+    },
+    {
+      "name": "bedrooms",
+      "display_name": "Bedrooms",
+      "description": "Number of bedrooms in the listing."
+    },
+    {
+      "name": "beds",
+      "display_name": "Beds",
+      "description": "Number of beds available in the listing."
+    }
+  ]
+}

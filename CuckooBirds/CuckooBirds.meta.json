@@ -1,0 +1,16 @@
+{
+  "name": "Cuckoo Birds Data",
+  "description": "Dataset recording measurements and observations of cuckoo birds.",
+  "columns": [
+    {
+      "name": "Bird",
+      "display_name": "Bird",
+      "description": "Information about Bird."
+    },
+    {
+      "name": "Length",
+      "display_name": "Length",
+      "description": "Information about Length."
+    }
+  ]
+}

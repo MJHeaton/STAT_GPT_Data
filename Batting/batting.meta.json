@@ -1,0 +1,36 @@
+{
+  "name": "Baseball Batting Statistics",
+  "description": "Dataset of baseball players with batting statistics and player details.",
+  "columns": [
+    {
+      "name": "PLAYER",
+      "display_name": "Player Name",
+      "description": "Name of the baseball player."
+    },
+    {
+      "name": "POSITION",
+      "display_name": "Position",
+      "description": "Field position of the player (e.g., Catcher, Pitcher)."
+    },
+    {
+      "name": "AtBat",
+      "display_name": "At Bats",
+      "description": "Number of times the player has been at bat."
+    },
+    {
+      "name": "Hits",
+      "display_name": "Hits",
+      "description": "Number of hits achieved by the player."
+    },
+    {
+      "name": "AVG",
+      "display_name": "Batting Average",
+      "description": "Batting average of the player (Hits \u00f7 At Bats)."
+    },
+    {
+      "name": "BattingHand",
+      "display_name": "Batting Hand",
+      "description": "Batting hand of the player (L = Left, R = Right)."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Delay of Gratification Experiment",
+  "description": "Scores from a delay of gratification experiment measured at Day 0 and Day 60.",
+  "columns": [
+    {
+      "name": "Patient",
+      "display_name": "Patient ID",
+      "description": "Identifier number for each patient in the study."
+    },
+    {
+      "name": "D0",
+      "display_name": "Day 0 Score",
+      "description": "Patients baseline score or measurement taken on Day 0."
+    },
+    {
+      "name": "D60",
+      "display_name": "Day 60 Score",
+      "description": "Patients score on dose of 60mg."
+    },
+    {
+      "name": "Diff",
+      "display_name": "Difference (D60 - D0)",
+      "description": "Change in score from 0 dose to 60mg dose. Positive indicates improvement, negative indicates decline."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "name": "DnD Dataset",
+  "description": "Metadata for the DnD dataset.",
+  "columns": [
+    {
+      "name": "race",
+      "display_name": "Race",
+      "description": "Race field from the DnD dataset."
+    },
+    {
+      "name": "height",
+      "display_name": "Height",
+      "description": "Height field from the DnD dataset."
+    },
+    {
+      "name": "weight",
+      "display_name": "Weight",
+      "description": "Weight field from the DnD dataset."
+    },
+    {
+      "name": "speed",
+      "display_name": "Speed",
+      "description": "Speed field from the DnD dataset."
+    },
+    {
+      "name": "strength",
+      "display_name": "Strength",
+      "description": "Strength field from the DnD dataset."
+    },
+    {
+      "name": "dexterity",
+      "display_name": "Dexterity",
+      "description": "Dexterity field from the DnD dataset."
+    },
+    {
+      "name": "constitution",
+      "display_name": "Constitution",
+      "description": "Constitution field from the DnD dataset."
+    },
+    {
+      "name": "intelligence",
+      "display_name": "Intelligence",
+      "description": "Intelligence field from the DnD dataset."
+    },
+    {
+      "name": "wisdom",
+      "display_name": "Wisdom",
+      "description": "Wisdom field from the DnD dataset."
+    },
+    {
+      "name": "charisma",
+      "display_name": "Charisma",
+      "description": "Charisma field from the DnD dataset."
+    }
+  ]
+}

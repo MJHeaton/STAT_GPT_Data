@@ -1,0 +1,16 @@
+{
+  "name": "Yawning Experiment Data",
+  "description": "Dataset from an experiment studying contagious yawning, comparing treatment and control groups.",
+  "columns": [
+    {
+      "name": "Group",
+      "display_name": "Group",
+      "description": "Group assignment (Treatment or Control)."
+    },
+    {
+      "name": "Yawn",
+      "display_name": "Yawn",
+      "description": "Indicates whether the subject yawned (Yes/No)."
+    }
+  ]
+}

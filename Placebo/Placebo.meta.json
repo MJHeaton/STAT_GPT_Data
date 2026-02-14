@@ -1,0 +1,16 @@
+{
+  "name": "Placebo Data",
+  "description": "Dataset from a placebo-controlled experiment with groups and weights.",
+  "columns": [
+    {
+      "name": "Patient",
+      "display_name": "Patient",
+      "description": "Information about Patient."
+    },
+    {
+      "name": "Diff",
+      "display_name": "Diff",
+      "description": "Information about Diff."
+    }
+  ]
+}

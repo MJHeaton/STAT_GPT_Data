@@ -1,0 +1,81 @@
+{
+  "name": "Body Fat Measurements",
+  "description": "Dataset containing body fat percentage and body measurements of individuals.",
+  "columns": [
+    {
+      "name": "brozek",
+      "display_name": "Brozek",
+      "description": "Body fat percentage estimated using Brozek's formula."
+    },
+    {
+      "name": "age",
+      "display_name": "Age",
+      "description": "Age of the individual in years."
+    },
+    {
+      "name": "weight",
+      "display_name": "Weight",
+      "description": "Weight of the individual in pounds."
+    },
+    {
+      "name": "height",
+      "display_name": "Height",
+      "description": "Height of the individual in inches."
+    },
+    {
+      "name": "neck",
+      "display_name": "Neck",
+      "description": "Measurement or attribute: Neck."
+    },
+    {
+      "name": "chest",
+      "display_name": "Chest",
+      "description": "Measurement or attribute: Chest."
+    },
+    {
+      "name": "abdom",
+      "display_name": "Abdom",
+      "description": "Measurement or attribute: Abdom."
+    },
+    {
+      "name": "hip",
+      "display_name": "Hip",
+      "description": "Measurement or attribute: Hip."
+    },
+    {
+      "name": "thigh",
+      "display_name": "Thigh",
+      "description": "Measurement or attribute: Thigh."
+    },
+    {
+      "name": "knee",
+      "display_name": "Knee",
+      "description": "Measurement or attribute: Knee."
+    },
+    {
+      "name": "ankle",
+      "display_name": "Ankle",
+      "description": "Measurement or attribute: Ankle."
+    },
+    {
+      "name": "biceps",
+      "display_name": "Biceps",
+      "description": "Measurement or attribute: Biceps."
+    },
+    {
+      "name": "forearm",
+      "display_name": "Forearm",
+      "description": "Measurement or attribute: Forearm."
+    },
+    {
+      "name": "wrist",
+      "display_name": "Wrist",
+      "description": "Measurement or attribute: Wrist."
+    },
+    {
+      "name": "greater6ft",
+      "display_name": "Greater6Ft",
+      "description": "Indicates whether the individual is taller than 6 feet (Yes/No)."
+    }
+  ]
+}

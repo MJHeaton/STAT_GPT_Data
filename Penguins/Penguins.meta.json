@@ -1,0 +1,41 @@
+{
+  "name": "Penguins Data",
+  "description": "Dataset containing measurements and species information of penguins.",
+  "columns": [
+    {
+      "name": "bill_length_mm",
+      "display_name": "Bill Length Mm",
+      "description": "Information about Bill Length Mm."
+    },
+    {
+      "name": "bill_depth_mm",
+      "display_name": "Bill Depth Mm",
+      "description": "Information about Bill Depth Mm."
+    },
+    {
+      "name": "flipper_length_mm",
+      "display_name": "Flipper Length Mm",
+      "description": "Information about Flipper Length Mm."
+    },
+    {
+      "name": "body_mass_g",
+      "display_name": "Body Mass G",
+      "description": "Information about Body Mass G."
+    },
+    {
+      "name": "sex",
+      "display_name": "Sex",
+      "description": "Information about Sex."
+    },
+    {
+      "name": "Adelie",
+      "display_name": "Adelie",
+      "description": "Information about Adelie."
+    },
+    {
+      "name": "Gentoo",
+      "display_name": "Gentoo",
+      "description": "Information about Gentoo."
+    }
+  ]
+}

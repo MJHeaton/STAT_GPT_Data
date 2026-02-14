@@ -1,0 +1,96 @@
+{
+  "name": "Salary Data 2",
+  "description": "Dataset containing additional salary-related information for individuals or groups.",
+  "columns": [
+    {
+      "name": "Salary",
+      "display_name": "Salary",
+      "description": "Information about Salary."
+    },
+    {
+      "name": "Arts",
+      "display_name": "Arts",
+      "description": "Information about Arts."
+    },
+    {
+      "name": "Biology & Life Science",
+      "display_name": "Biology & Life Science",
+      "description": "Information about Biology & Life Science."
+    },
+    {
+      "name": "Business",
+      "display_name": "Business",
+      "description": "Information about Business."
+    },
+    {
+      "name": "Communications & Journalism",
+      "display_name": "Communications & Journalism",
+      "description": "Information about Communications & Journalism."
+    },
+    {
+      "name": "Computers & Mathematics",
+      "display_name": "Computers & Mathematics",
+      "description": "Information about Computers & Mathematics."
+    },
+    {
+      "name": "Education",
+      "display_name": "Education",
+      "description": "Information about Education."
+    },
+    {
+      "name": "Engineering",
+      "display_name": "Engineering",
+      "description": "Information about Engineering."
+    },
+    {
+      "name": "Health",
+      "display_name": "Health",
+      "description": "Information about Health."
+    },
+    {
+      "name": "Humanities & Liberal Arts",
+      "display_name": "Humanities & Liberal Arts",
+      "description": "Information about Humanities & Liberal Arts."
+    },
+    {
+      "name": "Industrial Arts & Consumer Services",
+      "display_name": "Industrial Arts & Consumer Services",
+      "description": "Information about Industrial Arts & Consumer Services."
+    },
+    {
+      "name": "Interdisciplinary",
+      "display_name": "Interdisciplinary",
+      "description": "Information about Interdisciplinary."
+    },
+    {
+      "name": "Law & Public Policy",
+      "display_name": "Law & Public Policy",
+      "description": "Information about Law & Public Policy."
+    },
+    {
+      "name": "Physical Sciences",
+      "display_name": "Physical Sciences",
+      "description": "Information about Physical Sciences."
+    },
+    {
+      "name": "Psychology & Social Work",
+      "display_name": "Psychology & Social Work",
+      "description": "Information about Psychology & Social Work."
+    },
+    {
+      "name": "Social Science",
+      "display_name": "Social Science",
+      "description": "Information about Social Science."
+    },
+    {
+      "name": "Male",
+      "display_name": "Male",
+      "description": "Information about Male."
+    },
+    {
+      "name": "GPA",
+      "display_name": "Gpa",
+      "description": "Information about Gpa."
+    }
+  ]
+}

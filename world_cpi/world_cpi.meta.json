@@ -1,0 +1,56 @@
+{
+  "name": "World CPI Dataset",
+  "description": "Metadata for the world_cpi dataset.",
+  "columns": [
+    {
+      "name": "Unnamed: 0",
+      "display_name": "Unnamed: 0",
+      "description": "Unnamed: 0 field from the world_cpi dataset."
+    },
+    {
+      "name": "Country",
+      "display_name": "Country",
+      "description": "Country field from the world_cpi dataset."
+    },
+    {
+      "name": "City",
+      "display_name": "City",
+      "description": "City field from the world_cpi dataset."
+    },
+    {
+      "name": "CPI with 5 Dimensions",
+      "display_name": "Cpi With 5 Dimensions",
+      "description": "Cpi With 5 Dimensions field from the world_cpi dataset."
+    },
+    {
+      "name": "CPI with 4 Dimensions",
+      "display_name": "Cpi With 4 Dimensions",
+      "description": "Cpi With 4 Dimensions field from the world_cpi dataset."
+    },
+    {
+      "name": "Productivity Index",
+      "display_name": "Productivity Index",
+      "description": "Productivity Index field from the world_cpi dataset."
+    },
+    {
+      "name": "Quality of Life Index",
+      "display_name": "Quality Of Life Index",
+      "description": "Quality Of Life Index field from the world_cpi dataset."
+    },
+    {
+      "name": "Infrustructure Index",
+      "display_name": "Infrustructure Index",
+      "description": "Infrustructure Index field from the world_cpi dataset."
+    },
+    {
+      "name": "Environment Index",
+      "display_name": "Environment Index",
+      "description": "Environment Index field from the world_cpi dataset."
+    },
+    {
+      "name": "Equity Index",
+      "display_name": "Equity Index",
+      "description": "Equity Index field from the world_cpi dataset."
+    }
+  ]
+}
