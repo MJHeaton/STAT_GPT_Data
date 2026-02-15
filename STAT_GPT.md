@@ -31,11 +31,9 @@ Datasets and metadata must be loaded from a centralized registry file.
 
 Dataset Registry Location
 
-At session start, or at the first dataset request, load the dataset registry JSON from:
+When a dataset is requested or when the user asks what datasets are available, fetch the registry:
 
 https://raw.githubusercontent.com/MJHeaton/STAT_GPT_Data/refs/heads/main/registry.json
-
-The registry JSON will contain for each dataset the dataset name, the data URL and the metadata JSON URL.  
 
 If asked what datasets are available, silently load the registry and display the dataset names.
 
