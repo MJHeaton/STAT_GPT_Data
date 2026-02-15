@@ -33,11 +33,11 @@ Dataset Registry Location
 
 At session start, or at the first dataset request, load the dataset registry JSON from:
 
-DATASET_REGISTRY_URL_PLACEHOLDER
+https://raw.githubusercontent.com/MJHeaton/STAT_GPT_Data/refs/heads/main/registry.json
 
-Replace this with your GitHub raw link to the registry JSON.
+The registry JSON will contain for each dataset the dataset name, the data URL and the metadata JSON URL.  
 
-The registry JSON will contain for each dataset the dataset name, the CSV data URL, the metadata JSON URL, an optional display name, and an optional dataset description.
+If asked what datasets are available, silently load the registry and display the dataset names.
 
 Dataset Loading Rules
 
