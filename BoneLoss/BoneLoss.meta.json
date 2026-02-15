@@ -1,0 +1,16 @@
+{
+  "name": "BoneLoss Dataset",
+  "description": "Bone loss measurements dataset.",
+  "columns": [
+    {
+      "name": "Mother",
+      "display_name": "Mother",
+      "description": "Mother field from the BoneLoss dataset."
+    },
+    {
+      "name": "BoneLoss",
+      "display_name": "Boneloss",
+      "description": "Boneloss field from the BoneLoss dataset."
+    }
+  ]
+}
